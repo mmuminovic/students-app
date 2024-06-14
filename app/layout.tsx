@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import Link from "next/link";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -16,7 +17,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={"position-relative"}>
+        <header className="p-4 text-white w-full z-10 top-0 left-0 bg-blue-500 fixed top-0 left-0 right-0">
+          <h4 className="text-xl font-bold">
+            <Link href="/">Students app</Link>
+          </h4>
+        </header>
+        {children}
+      </body>
     </html>
   );
 }

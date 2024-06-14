@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "fullName": "Alice Smith",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School A",
+    "yearOfBirth": 2005,
+    "hobby": "Programming",
+    "favColor": "Blue"
+  },
+  {
+    "id": 2,
+    "fullName": "Bob Johnson",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "Middle School B",
+    "yearOfBirth": 2008,
+    "hobby": "Reading",
+    "favColor": "Green"
+  },
+  {
+    "id": 3,
+    "fullName": "Charlie Williams",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "Elementary School C",
+    "yearOfBirth": 2012,
+    "hobby": "Drawing",
+    "favColor": "Red"
+  },
+  {
+    "id": 21,
+    "fullName": "Piper Quitzon",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School L",
+    "yearOfBirth": 2008,
+    "hobby": "Cooking",
+    "favColor": "tan"
+  },
+  {
+    "id": 22,
+    "fullName": "Santiago Hane",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School F",
+    "yearOfBirth": 2002,
+    "hobby": "Travel",
+    "favColor": "orchid"
+  },
+  {
+    "id": 23,
+    "fullName": "Nicolette Moen-Mante",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School S",
+    "yearOfBirth": 2002,
+    "hobby": "Reading",
+    "favColor": "gold"
+  },
+  {
+    "id": 4,
+    "fullName": "Estrella Boyer",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School N",
+    "yearOfBirth": 2008,
+    "hobby": "Reading",
+    "favColor": "plum"
+  },
+  {
+    "id": 5,
+    "fullName": "Whitney Boyle",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School O",
+    "yearOfBirth": 2008,
+    "hobby": "Cooking",
+    "favColor": "maroon"
+  },
+  {
+    "id": 6,
+    "fullName": "Johann Turcotte",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School M",
+    "yearOfBirth": 2010,
+    "hobby": "Cooking",
+    "favColor": "sky blue"
+  },
+  {
+    "id": 7,
+    "fullName": "Larry Powlowski",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School 4",
+    "yearOfBirth": 2005,
+    "hobby": "Sports",
+    "favColor": "salmon"
+  },
+  {
+    "id": 8,
+    "fullName": "Vince Gutmann",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School I",
+    "yearOfBirth": 2003,
+    "hobby": "Music",
+    "favColor": "magenta"
+  },
+  {
+    "id": 9,
+    "fullName": "Ephraim O'Conner",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School N",
+    "yearOfBirth": 2008,
+    "hobby": "Reading",
+    "favColor": "plum"
+  },
+  {
+    "id": 10,
+    "fullName": "Micheal Nikolaus-Abernathy",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School 4",
+    "yearOfBirth": 2006,
+    "hobby": "Sports",
+    "favColor": "ivory"
+  },
+  {
+    "id": 11,
+    "fullName": "Maudie Grant",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School J",
+    "yearOfBirth": 2008,
+    "hobby": "Cooking",
+    "favColor": "orange"
+  },
+  {
+    "id": 12,
+    "fullName": "Verda Bahringer",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School S",
+    "yearOfBirth": 2006,
+    "hobby": "Reading",
+    "favColor": "lime"
+  },
+  {
+    "id": 13,
+    "fullName": "Roberto Bechtelar",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School Y",
+    "yearOfBirth": 2000,
+    "hobby": "Reading",
+    "favColor": "orchid"
+  },
+  {
+    "id": 14,
+    "fullName": "Adela Denesik-Ortiz",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School F",
+    "yearOfBirth": 2002,
+    "hobby": "Travel",
+    "favColor": "purple"
+  },
+  {
+    "id": 15,
+    "fullName": "Tracey Mertz",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School 2",
+    "yearOfBirth": 2003,
+    "hobby": "Travel",
+    "favColor": "orchid"
+  },
+  {
+    "id": 16,
+    "fullName": "Patricia Schmidt",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School V",
+    "yearOfBirth": 2000,
+    "hobby": "Cooking",
+    "favColor": "violet"
+  },
+  {
+    "id": 17,
+    "fullName": "Ricky Miller",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School 4",
+    "yearOfBirth": 2003,
+    "hobby": "Travel",
+    "favColor": "gold"
+  },
+  {
+    "id": 18,
+    "fullName": "Genevieve Predovic",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School L",
+    "yearOfBirth": 2010,
+    "hobby": "Music",
+    "favColor": "cyan"
+  },
+  {
+    "id": 19,
+    "fullName": "Ashlee Block",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School X",
+    "yearOfBirth": 2009,
+    "hobby": "Travel",
+    "favColor": "violet"
+  },
+  {
+    "id": 20,
+    "fullName": "Toney Towne",
+    "imageUrl": "https://conflictresolutionmn.org/wp-content/uploads/2020/01/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+    "school": "High School U",
+    "yearOfBirth": 2006,
+    "hobby": "Cooking",
+    "favColor": "tan"
+  }
+]
